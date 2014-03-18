@@ -2,3 +2,12 @@
 Semi -active exo  (Mechanical Engineering) 
 =======
 kkloste adding a test line of text to project.txt
+
+testing this text file
+
+
+kkloste adding a line to test merging
+
+
+Adding another line
+
